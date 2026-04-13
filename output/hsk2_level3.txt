@@ -1,0 +1,305 @@
+阿姨	āyí	aunt
+啊	a	ah
+矮	ǎi	short
+爱好	àihào	hobby
+安静	ānjìng	quiet
+把	bǎ	hold
+班	bān	class
+搬	bān	turn; pull
+半	bàn	half
+办法	bànfǎ	way
+办公室	bàngōngshì	office
+帮忙	bāngmáng	help
+包	bāo	package
+饱	bǎo	full
+北方	běifāng	north
+被	bèi	cover
+鼻子	bízi	nose
+比	bǐ	than
+比较	bǐjiào	compare
+比赛	bǐsài	competition
+必须	bìxū	must
+变化	biànhuà	change
+表示	biǎoshì	express
+表演	biǎoyǎn	perform
+别人	biéren	other people
+宾馆	bīnguǎn	hotel
+冰箱	bīngxiāng	refrigerator
+才	cái	just
+菜单	càidān	menu
+参加	cānjiā	participate in
+草	cǎo	grass
+层	céng	layer
+差	chà	difference
+超市	chāoshì	supermarket
+衬衫	chènshān	shirt
+成绩	chéngjì	achievement
+城市	chéngshì	city
+迟到	chídào	late
+出现	chūxiàn	appear
+厨房	chúfáng	kitchen
+除了	chúle	except
+春	chūn	spring
+词语	cíyǔ	terms
+聪明	cōngming	clever
+打扫	dǎsǎo	clean
+打算	dǎsuàn	plan
+带	dài	belt
+担心	dānxīn	worry
+蛋糕	dàngāo	cake
+当然	dāngrán	of course
+灯	dēng	lamp
+低	dī	low
+地方	dìfang	local
+地铁	dìtiě	metro
+地图	dìtú	map
+电梯	diàntī	elevator
+电子邮件	diànzǐyóujiàn	email
+东	dōng	east
+冬	dōng	winter
+动物	dòngwù	animal
+短	duǎn	short
+段	duàn	paragraph
+锻炼	duànliàn	physical exercise
+多么	duōme	what
+饿	è	hungry
+而且	érqiě	and
+耳朵	ěrduo	ears
+发烧	fāshāo	have a fever
+发现	fāxiàn	find
+方便	fāngbiàn	convenient
+放	fàng	discharge
+放心	fàngxīn	don’t worry
+分	fēn	branch
+附近	fùjìn	nearby
+复习	fùxí	review
+干净	gānjìng	clean
+敢	gǎn	dare
+感冒	gǎnmào	get a cold
+刚才	gāngcái	just
+跟	gēn	with
+根据	gēnjù	according to
+更	gèng	more
+公司	gōngsī	company
+公园	gōngyuán	park
+故事	gùshi	story
+刮风	guāfēng	windy
+关	guān	shut
+关系	guānxì	relationship
+关心	guānxīn	care for
+关于	guānyú	about
+国家	guójiā	country
+果汁	guǒzhī	fruit juice
+过去	guòqù	past times
+还是	háishì	still
+害怕	hàipà	Fear
+河	hé	river
+黑板	hēibǎn	blackboard
+护照	hùzhào	passport
+花 （动）	huā	flower (move)
+花园	huāyuán	garden
+画	huà	painting
+坏	huài	bad
+还	huán	still
+环境	huánjìng	environment
+换	huàn	change
+黄	huáng	yellow
+会议	huìyì	meeting
+或者	huòzhě	perhaps
+几乎	jīhū	almost
+机会	jīhuì	opportunity
+极	jí	extremely
+记得	jìde	remember
+季节	jìjié	season
+检查	jiǎnchá	inspect
+简单	jiǎndān	simple
+健康	jiànkāng	healthy
+见面	jiànmiàn	meet
+讲	jiǎng	speak
+教	jiāo	teach
+角	jiǎo	horn
+脚	jiǎo	foot
+接	jiē	meet
+街道	jiēdào	street
+结婚	jiéhūn	marry
+结束	jiéshù	end
+节目	jiémù	program
+节日	jiérì	festival
+解决	jiějué	solve
+借	jiè	borrow
+经常	jīngcháng	often
+经过	jīngguò	after
+经理	jīnglǐ	manager
+久	jiǔ	long
+旧	jiù	used
+举行	jǔxíng	hold
+句子	jùzi	sentence
+决定	juédìng	decision
+渴	kě	thirsty
+可爱	kě’ài	lovely
+刻	kè	moment
+客人	kèrén	guest
+空调	kōngtiáo	air conditioner
+口	kǒu	mouth
+哭	kū	cry
+裤子	kùzi	trousers
+筷子	kuàizi	chopsticks
+蓝	lán	blue
+老	lǎo	old
+离开	líkāi	leave
+礼物	lǐwù	gift
+历史	lìshǐ	history
+脸	liǎn	face
+练习	liànxí	practice
+辆	liàng	car
+了解	liǎojiě	understand
+邻居	línjū	neighbor
+楼	lóu	floor
+绿	lǜ	green
+马	mǎ	horse
+马上	mǎshàng	soon; right off
+卖	mài	sell
+满意	mǎnyì	satisfied
+帽子	màozi	hat
+米	mǐ	rice
+面包	miànbāo	bread
+面条	miàntiáo	noodle
+明白	míngbai	clear
+拿	ná	take
+哪 （哪儿）	nǎ(nǎr)	which (where)
+那 （那儿）	nà(nàr)	that (there)
+奶奶	nǎinai	grandma
+南	nán	south
+难	nán	disaster; blame
+难过	nánguò	to feel sorry
+年级	niánjí	grade
+年轻	niánqīng	young
+鸟	niǎo	bird
+努力	nǔlì	strive, hard working
+爬山	páshān	mountain climbing
+盘子	pánzi	plate
+胖	pàng	fat
+啤酒	píjiǔ	beer
+葡萄	pútao	grape
+普通话	pǔtōnghuà	Mandarin
+其实	qíshí	actually
+其他	qítā	other
+骑	qí	ride
+奇怪	qíguài	strange
+铅笔	qiānbǐ	pencil
+清楚	qīngchu	clear
+秋	qiū	autumn
+裙子	qúnzi	skirt
+然后	ránhòu	then
+热情	rèqíng	enthusiasm
+认为	rènwéi	think
+认真	rènzhēn	earnest
+容易	róngyì	easily
+如果	rúguǒ	if
+伞	sǎn	umbrella
+上网	shàngwǎng	surf the Internet
+生气	shēngqì	get angry
+声音	shēngyīn	voice
+使	shǐ	send
+世界	shìjiè	world
+瘦	shòu	thin
+舒服	shūfu	comfortable
+叔叔	shūshu	uncle
+树	shù	tree
+数学	shùxué	mathematics
+刷牙	shuāyá	brush one’s teeth
+双	shuāng	double
+水果	shuǐguǒ	fruit
+水平	shuǐpíng	level
+司机	sījī	driver
+虽然	suīrán	although
+太阳	tàiyáng	sunlight
+糖	táng	sugar
+特别	tèbié	especially
+疼	téng	pain, hurt
+提高	tígāo	increase
+体育	tǐyù	sports
+甜	tián	sweet
+条	tiáo	strip
+听	tīng	hear
+同事	tóngshì	colleague
+同意	tóngyì	agree
+头发	tóufa	hair
+突然	tūrán	suddenly
+图书馆	túshūguǎn	library
+腿	tuǐ	leg
+完成	wánchéng	complete
+碗	wǎn	bowl
+万	wàn	ten thousand
+忘记	wàngjì	forget
+为	wèi	by
+为了	wèile	in order to
+位	wèi	position
+文化	wénhuà	culture
+西	xī	west
+习惯	xíguàn	habit
+洗手间	xǐshǒujiān	restroom
+洗澡	xǐzǎo	take a shower
+夏	xià	summer
+先	xiān	before
+香蕉	xiāngjiāo	banana
+相同	xiāngtóng	identical
+相信	xiāngxìn	believe
+像	xiàng	image
+小心	xiǎoxīn	look out
+校长	xiàozhǎng	principal
+鞋	xié	shoes
+新闻	xīnwén	news
+新鲜	xīnxiān	fresh
+信	xìn	letter
+行李箱	xínglixiāng	trunk
+兴趣	xìngqù	interest
+熊猫	xióngmāo	panda
+需要	xūyào	need
+选择	xuǎnzé	choice
+眼镜	yǎnjìng	glasses
+要求	yāoqiú	requirement
+爷爷	yéye	grandpa
+一定	yídìng	certain
+一共	yígòng	altogether
+一会儿	yíhuìr	a little while
+一样	yíyàng	equally
+以后	yǐhòu	In the future
+以前	yǐqián	before
+以为	yǐwéi	think
+一般	yìbān	commonly
+一边	yìbiān	one side
+一直	yìzhí	always
+音乐	yīnyuè	music
+银行	yínháng	bank
+应该	yīnggāi	should
+影响	yǐngxiǎng	influence
+用	yòng	use
+游戏	yóuxì	game
+有名	yǒumíng	famous
+又	yòu	also
+遇到	yùdào	encounter
+愿意	yuànyì	be willing
+月亮	yuèliang	moon
+越	yuè	the more…
+云	yún	cloud
+站	zhàn	station
+照顾	zhàogù	look after
+照片	zhàopiàn	photo
+照相机	zhàoxiàngjī	camera
+这 （这儿）	zhè(zhèr)	here (here)
+只	zhǐ	only
+中间	zhōngjiān	middle
+终于	zhōngyú	finally
+种	zhǒng	species
+重要	zhòngyào	important
+周末	zhōumò	weekend
+主要	zhǔyào	main
+祝	zhù	wish
+注意	zhùyì	pay attention to
+字典	zìdiǎn	dictionary
+自己	zìjǐ	my own; your own
+总是	zǒngshì	always
+最近	zuìjìn	lately
+作业	zuòyè	task
+作用	zuòyòng	effect

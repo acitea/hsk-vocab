@@ -1,0 +1,601 @@
+爱情	àiqíng	love
+安排	ānpái	arrange
+安全	ānquán	security
+暗	àn	dark
+按时	ànshí	on time
+按照	ànzhào	according to
+包括	bāokuò	include
+保护	bǎohù	protect
+保证	bǎozhèng	ensure
+抱	bào	hold
+抱歉	bàoqiàn	sorry
+报道	bàodào	report
+报名	bàomíng	sign up
+倍	bèi	times
+本来	běnlái	originally
+笨	bèn	stupid
+笔记本	bǐjìběn	notebook
+毕业	bìyè	graduation
+遍	biàn	(one/two) time(s)
+标准	biāozhǔn	standard
+表达	biǎodá	Expression
+表格	biǎogé	form
+表扬	biǎoyáng	praise
+饼干	bǐnggān	cookies
+并且	bìngqiě	also
+博士	bóshì	doctor
+不但	bùdàn	not only
+不过	bùguò	however
+不得不	bùdé bù	have to
+不管	bùguǎn	no matter
+不仅	bùjǐn	not only
+部分	bùfèn	a part
+擦	cā	wipe
+猜	cāi	guess
+材料	cáiliào	material
+参观	cānguān	visit
+差不多	chàbùduō	almost
+尝	cháng	taste
+长城	chángchéng	Great Wall
+长江	chángjiāng	Yangtze River
+场	chǎng	site
+超过	chāoguò	exceed
+吵	chǎo	noisy
+成功	chénggōng	success
+成熟	chéngshú	mature
+成为	chéngwéi	become
+诚实	chéngshí	honest
+乘坐	chéngzuò	ride
+吃惊	chījīng	be amazed
+重新	chóngxīn	again
+抽烟	chōuyān	smoking
+出差	chūchāi	business trip
+出发	chūfā	set out
+出生	chūshēng	birth
+传真	chuánzhēn	fax
+窗户	chuānghù	window
+词典	cídiǎn	dictionary
+从来	cónglái	always
+粗心	cūxīn	careless
+答案	dá’àn	answer
+打扮	dǎbàn	dress up
+打扰	dǎrǎo	disturb
+打印	dǎyìn	print
+打折	dǎzhé	discount
+打针	dǎzhēn	inject
+大概	dàgài	probably
+大使馆	dàshǐ guǎn	embassy
+大约	dàyuē	about
+戴	dài	wear
+代表	dàibiǎo	representative
+代替	dàitì	replace
+大夫	dàfū	doctor
+当	dāng	when
+当地	dāng dì	local
+当时	dāngshí	at that time
+刀	dāo	knife
+导游	dǎoyóu	guide
+到	dào	reach
+到处	dàochù	everywhere
+到底	dàodǐ	to the end
+道歉	dàoqiàn	apologize
+得意	déyì	proud
+等 （动）	děng (dòng)	wait (verb)
+等 （助）	děng (zhù)	Etc.
+底	dǐ	bottom
+地球	dìqiú	earth
+地址	dìzhǐ	address
+掉	diào	fall
+调查	diàochá	investigation
+丢	diū	lose
+动作	dòngzuò	action
+堵车	dǔchē	traffic jam
+肚子	dùzi	belly
+断	duàn	break
+对话	duìhuà	dialogue
+对面	duìmiàn	Opposite side
+顿	dùn	Meal
+朵	duǒ	classifier of flower
+而	ér	and
+儿童	értóng	children
+发	fā	send out
+发生	fāshēng	happen
+发展	fāzhǎn	development
+法律	fǎlǜ	law
+翻译	fānyì	translate
+烦恼	fánnǎo	annoyance
+反对	fǎnduì	opposition
+反映	fǎnyìng	reflect
+范围	fànwéi	Range
+方法	fāngfǎ	method
+方面	fāngmiàn	aspect
+方向	fāngxiàng	direction
+访问	fǎngwèn	visit
+放弃	fàngqì	give up
+放暑假	fàng shǔjià	summer vacation
+分之	fēn zhī	percent
+份	fèn	share (measure word)
+丰富	fēngfù	rich
+风景	fēngjǐng	scenery
+否则	fǒuzé	otherwise
+符合	fúhé	accord with
+富	fù	rich
+父亲	fùqīn	father
+复印	fùyìn	to copy
+复杂	fùzá	complex
+负责	fùzé	be responsible for
+改变	gǎibiàn	change
+干杯	gānbēi	Cheers!
+干燥	gānzào	dry
+感动	gǎndòng	be moved
+感觉	gǎnjué	feel
+感情	gǎnqíng	feeling
+感谢	gǎnxiè	Many thanks
+干	gān	dry
+刚刚	gānggāng	just
+高级	gāojí	senior
+各	gè	various
+个子	gè zi	height
+公里	gōnglǐ	kilometre
+工具	gōngjù	tool
+工资	gōngzī	wages
+共同	gòngtóng	common
+够	gòu	enough
+购物	gòuwù	Shopping
+孤单	gūdān	alone
+估计	gūjì	estimate
+鼓励	gǔlì	encourage
+鼓掌	gǔzhǎng	applause
+顾客	gùkè	customer
+故意	gùyì	deliberately
+挂	guà	hang
+关键	guānjiàn	key
+观众	guānzhòng	Audience
+管理	guǎnlǐ	Administration
+光	guāng	light
+广播	guǎngbò	Radio broadcast
+广告	guǎnggào	Advertisement
+逛	guàng	Stroll
+规定	guīdìng	Regulations
+国际	guójì	international
+果然	guǒ rán	Sure enough
+过 （动）	guò (dòng)	pass
+过 （助）	guò (zhù)	Over
+过程	guòchéng	process
+海洋	hǎiyáng	ocean
+害羞	hàixiū	Shy
+寒假	hánjià	The winter vacation
+汗	hàn	sweat
+航班	hángbān	flight
+好处	hǎochù	benefit
+好像	hǎoxiàng	Be like, seem
+号码	hàomǎ	number
+合格	hégé	qualified
+合适	héshì	appropriate
+盒子	hézi	Box
+猴子	hóuzi	Monkey
+厚	hòu	thick
+后悔	hòuhuǐ	regret
+后来	hòulái	later
+忽然	hūrán	suddenly
+护士	hùshì	Nurse
+互相	hùxiāng	each other
+怀疑	huáiyí	doubt
+回忆	huíyì	Memory
+活动	huódòng	activity
+活泼	huópō	lively
+火	huǒ	fire
+获得	huòdé	Get
+基础	jīchǔ	Basics
+激动	jīdòng	Excited
+积极	jījí	positive
+积累	jīlěi	accumulation
+极其	jíqí	extremely
+集合	jíhé	aggregate
+及时	jíshí	timely
+即使	jíshǐ	even if
+寄	jì	send
+记者	jìzhě	Reporter
+计划	jìhuà	plan
+既然	jìrán	although
+技术	jìshù	technology
+继续	jìxù	Continue
+家具	jiājù	furniture
+加班	jiābān	overtime work
+加油站	jiāyóu zhàn	Gas station
+假	jiǎ	FALSE
+价格	jiàgé	Price
+坚持	jiānchí	Insist
+减肥	jiǎnféi	Reduce weight
+减少	jiǎnshǎo	reduce
+将来	jiānglái	future
+奖金	jiǎngjīn	bonus
+降低	jiàngdī	reduce
+交	jiāo	hand over
+交流	jiāoliú	Communication
+交通	jiāotōng	traffic
+骄傲	jiāo’ào	Proud
+饺子	jiǎozi	Dumplings
+教授	jiàoshòu	professor
+教育	jiàoyù	education
+接受	jiēshòu	accept
+结果	jiéguǒ	Result
+节约	jiéyuē	save
+解释	jiěshì	explain
+尽管	jǐnguǎn	although
+紧张	jǐnzhāng	Nervous
+进行	jìnxíng	in process of
+禁止	jìnzhǐ	prohibit
+精彩	jīngcǎi	Marvellous
+精神	jīngshén	spirit
+经济	jīngjì	Economics
+经历	jīnglì	experience
+经验	jīngyàn	experience
+京剧	jīngjù	Beijing opera
+警察	jǐngchá	Policeman
+竟然	jìngrán	Unexpectedly
+竞争	jìngzhēng	compete
+镜子	jìngzi	Mirror
+究竟	jiùjìng	exactly
+举办	jǔbàn	hold
+拒绝	jùjué	refuse
+距离	jùlí	distance
+开玩笑	kāiwánxiào	Make fun of
+看法	kànfǎ	view
+考虑	kǎolǜ	Consider
+棵	kē	Tree (measure word)
+科学	kēxué	science
+咳嗽	késòu	cough
+可怜	kělián	Poor
+可是	kěshì	however
+可惜	kěxí	unfortunately
+肯定	kěndìng	sure
+空气	kōngqì	air
+恐怕	kǒngpà	I’m afraid
+苦	kǔ	bitter
+宽	kuān	wide
+困	kùn	sleepy
+困难	kùnnán	difficulty
+扩大	kuòdà	Expand
+拉	lā	pull
+垃圾桶	lèsè tǒng	Trash
+辣	là	spicy
+来不及	láibují	There’s not enough time
+来得及	láidéjí	In time
+懒	lǎn	lazy
+浪费	làngfèi	Waste
+浪漫	làngmàn	romantic
+老虎	lǎohǔ	Tiger
+冷静	lěngjìng	calm down
+理发	lǐfǎ	Haircut
+理解	lǐjiě	Understand
+理想	lǐxiǎng	ideal
+礼貌	lǐmào	politeness
+厉害	lìhài	Fierce
+力气	lìqì	Strength
+例如	lìrú	for example
+俩	liǎ	Two
+连	lián	even
+联系	liánxì	contact
+凉快	liángkuai	Pleasantly cool
+亮	liàng	bright
+聊天	liáotiān	chat
+另外	lìngwài	in addition
+留	liú	stay
+留学	liúxué	Overseas Study
+流泪	liúlèi	Shed tears
+流利	liúlì	fluent
+流行	liúxíng	Popular
+乱	luàn	chaos
+律师	lǜshī	Lawyer
+麻烦	máfan	trouble
+马虎	mǎhǔ	Careless
+满	mǎn	full
+毛巾	máojīn	Towel
+美丽	měilì	beautiful
+梦	mèng	dream
+密码	mìmǎ	Password
+免费	miǎnfèi	Free of charge
+民族	mínzú	Nation
+母亲	mǔqīn	mother
+目的	mùdì	objective
+耐心	nàixīn	patience
+难道	nándào	could it be said that …
+难受	nánshòu	Uncomfortable
+内	nèi	within
+内容	nèiróng	content
+能力	nénglì	ability
+年龄	niánlíng	Age
+农村	nóngcūn	countryside
+弄	nòng	get, make
+暖和	nuǎnhuo	warm
+偶尔	ǒu’ěr	occasionally
+排列	páiliè	array
+判断	pànduàn	judge
+陪	péi	accompany
+批评	pīpíng	criticism
+皮肤	pífū	skin
+脾气	píqì	Bad temper
+篇	piān	piece
+骗	piàn	fool
+乒乓球	pīngpāng	qiú Table Tennis
+平时	píngshí	peacetime
+瓶子	píngzi	Bottle
+破	pò	broken
+普遍	pǔbiàn	universal
+其次	qícì	Secondly
+其中	qízhōng	among
+起飞	qǐfēi	take off
+起来	qǐlái	get up
+气候	qìhòu	climate
+千万	qiān wàn	Must
+签证	qiānzhèng	visa
+墙	qiáng	wall
+敲	qiāo	knock
+桥	qiáo	Bridge
+巧克力	qiǎokèlì	Chocolates
+亲戚	qīnqī	Relative
+轻	qīng	light
+轻松	qīngsōng	Relaxed
+情况	qíngkuàng	Situation
+请假	qǐngjià	leave
+请客	qǐngkè	Treat
+穷	qióng	poor
+区别	qūbié	Difference
+取	qǔ	take
+全部	quánbù	whole
+缺点	quēdiǎn	shortcoming
+缺少	quēshǎo	Lack
+却	què	but
+确实	quèshí	Exactly
+群	qún	group
+然而	rán’ér	however
+热闹	rènào	lively
+人民币	rénmínbì	RMB
+任何	rènhé	whatever, any
+任务	rènwù	task
+扔	rēng	throw
+仍然	réngrán	still
+日记	rìjì	diary
+入口	rùkǒu	Entrance
+软	ruǎn	soft
+散步	sànbù	Take a walk
+森林	sēnlín	Forest
+沙发	shāfā	Sofa
+商量	shāngliáng	discuss
+伤心	shāngxīn	Sad
+稍微	shāowéi	slightly
+社会	shèhuì	society
+深	shēn	deep
+申请	shēnqǐng	Apply
+甚至	shènzhì	even (..to the extent that)
+生活	shēnghuó	Life
+生命	shēngmìng	life
+省	shěng	province
+剩	shèng	Left
+失败	shībài	fail
+失望	shīwàng	disappointment
+师傅	shīfù	master worker
+湿润	shīrùn	moist
+狮子	shīzi	Lion
+十分	shífēn	very
+实际	shíjì	actual
+实在	shízài	really
+食品	shípǐn	food
+使用	shǐyòng	use
+试	shì	try
+市场	shìchǎng	market
+适合	shìhé	Fit
+适应	shìyìng	Adapt
+世纪	shìjì	century
+收	shōu	collect
+收入	shōurù	income
+收拾	shōushí	tidy (up something)
+首都	shǒudū	capital
+首先	shǒuxiān	first
+受不了	shòu bùliǎo	cannot bear
+受到	shòudào	suffer
+售货员	shòuhuòyuán	salesperson
+输	shū	book
+熟悉	shúxī	be familiar with
+数量	shùliàng	quantity
+数字	shùzì	number
+帅	shuài	handsome
+顺便	shùnbiàn	incidentally
+顺利	shùnlì	smoothly
+顺序	shùnxù	order
+说明	shuōmíng	explain
+硕士	shuòshì	master
+死	sǐ	die
+速度	sùdù	speed
+塑料袋	sùliào dài	plastic bag
+酸	suān	sour
+算	suàn	count
+随便	suíbiàn	casual
+随着	suízhe	along with
+孙子	sūnzi	grandson
+所有	suǒyǒu	therefore
+台	tái	platform
+抬	tái	lift
+态度	tàidù	attitude
+谈	tán	talk
+弹钢琴	dàn gāngqín	play the piano
+汤	tāng	soup
+躺	tǎng	lie
+趟	tàng	trip
+讨论	tǎolùn	discuss
+讨厌	tǎoyàn	hate
+特点	tèdiǎn	characteristic
+提供	tígōng	provide
+提前	tíqián	in advance
+提醒	tíxǐng	remind
+填空	tiánkòng	fill in the blanks
+条件	tiáojiàn	condition
+停止	tíngzhǐ	stop it
+挺	tǐng	quite
+通过	tōngguò	through
+通知	tōngzhī	notice
+同情	tóngqíng	sympathy
+推	tuī	push
+推迟	tuīchí	delay
+脱	tuō	take off
+袜子	wàzi	socks
+完全	wánquán	completely
+往	wǎng	to, towards
+往往	wǎngwǎng	usually
+网球	wǎngqiú	tennis
+网站	wǎngzhàn	website
+危险	wéixiǎn	danger
+味道	wèidào	taste
+温度	wēndù	temperature
+文章	wénzhāng	article
+握手	wòshǒu	handshake
+污染	wūrǎn	contaminated
+无	wú	nothing
+无聊	wúliáo	boring
+无论	wúlùn	no matter what
+误会	wùhuì	misunderstanding
+西红柿	xīhóngshì	tomato
+吸引	xīyǐn	attract
+洗衣机	xǐyījī	washing machine
+咸	xián	salty
+现代	xiàndài	modern
+羡慕	xiànmù	envy
+限制	xiànzhì	limit
+香	xiāng	fragrant
+相反	xiāngfǎn	contrary
+详细	xiángxì	detailed
+响	xiǎng	ring
+消息	xiāoxī	message
+小说	xiǎoshuō	novel
+笑话	xiàohuà	joke
+效果	xiàoguǒ	effect
+辛苦	xīnkǔ	hard
+心情	xīnqíng	mood
+信任	xìnrèn	trust
+信心	xìnxīn	confidence
+信用卡	xìnyòngkǎ	credit card
+兴奋	xīngfèn	Excitement
+行	xíng	OK
+醒	xǐng	wake up
+性别	xìngbié	gender
+性格	xìnggé	character
+幸福	xìngfú	happiness
+修	xiū	repair
+许多	xǔduō	many
+血	xuè	blood
+压力	yālì	pressure
+牙膏	yágāo	toothpaste
+亚洲	yàzhōu	Asia
+呀	ya	ah
+盐	yán	salt
+严格	yángé	strict
+严重	yánzhòng	serious
+研究生	yánjiūshēng	graduate student
+演出	yǎnchū	show
+演员	yǎnyuán	performer, actor
+阳光	yángguāng	sunshine
+养成	yǎng chéng	cultivate
+样子	yàngzi	one’s look
+邀请	yāoqǐng	invitation
+钥匙	yàoshi	key
+也许	yěxǔ	perhaps
+页	yè	page
+叶子	yèzi	leaf
+一切	yīqiè	everything
+以	yǐ	with
+亿	yì	billion
+意见	yìjiàn	opinion
+艺术	yìshù	art
+因此	yīncǐ	therefore
+饮料	yǐnliào	drinks
+引起	yǐnqǐ	cause
+印象	yìnxiàng	impression
+赢	yíng	win
+硬	yìng	hard
+勇敢	yǒnggǎn	brave
+永远	yǒngyuǎn	forever
+优点	yōudiǎn	advantage
+优秀	yōuxiù	excellent
+幽默	yōumò	humor
+由	yóu	from
+由于	yóuyú	because
+尤其	yóuqí	especially
+有趣	yǒuqù	interesting
+友好	yǒuhǎo	friendly
+友谊	yǒuyì	friendship
+愉快	yúkuài	cheerful
+于是	yúshì	therefore
+与	yǔ	and
+语法	yǔfǎ	grammar
+语言	yǔyán	language
+羽毛球	yǔmáoqiú	badminton
+预习	yùxí	preview
+圆	yuán	circle
+原来	yuánlái	Original
+原谅	yuánliàng	Forgive
+原因	yuányīn	Reason
+约会	yuē huì	Date
+阅读	yuèdú	Read
+允许	yǔnxǔ	allow
+杂志	zázhì	Magazine
+咱们	zánmen	We
+暂时	zhànshí	temporary
+脏	zàng	dirty
+责任	zérèn	responsibility
+增加	zēngjiā	increase
+增长	zēngzhǎng	increase
+窄	zhǎi	narrow
+招聘	zhāopìn	recruit
+着急	zhāojí	Worry
+真正	zhēnzhèng	real
+整理	zhěnglǐ	Arrangement
+整齐	zhěngqí	neat
+正常	zhèngcháng	normal
+正好	zhènghǎo	Just right
+正确	zhèngquè	Correct
+正式	zhèngshì	formal
+证明	zhèngmíng	Prove
+之	zhī	of
+支持	zhīchí	Support
+知识	zhīshì	knowledge
+值得	zhídé	Worth
+直接	zhíjiē	direct
+植物	zhíwù	Botany, plant
+职业	zhíyè	Occupation
+指	zhǐ	only
+只好	zhǐhǎo	have to
+只要	zhǐyào	as long as
+质量	zhìliàng	quality
+至少	zhìshǎo	at least
+制造	zhìzào	Manufacture
+中文	zhōngwén	Chinese
+重点	zhòngdiǎn	A key
+重视	zhòngshì	importance, attach importance to
+周围	zhōuwéi	around
+猪	zhū	pig
+逐渐	zhújiàn	gradually
+主动	zhǔdòng	active
+主意	zhǔyì	idea
+祝贺	zhùhè	Congratulate
+著名	zhùmíng	famous
+专门	zhuānmén	specialized
+专业	zhuānyè	major
+赚	zhuàn	earn
+撞	zhuàng	Hit
+准确	zhǔnquè	accuracy
+准时	zhǔnshí	on time
+仔细	zǐxì	careful
+自然	zìrán	natural
+总结	zǒngjié	summary
+租	zū	rent
+组成	zǔchéng	Form
+组织	zǔzhī	organization
+嘴	zuǐ	mouth
+最好	zuì hǎo	Best
+最后	zuìhòu	Last
+尊重	zūnzhòng	respect
+做生意	zuò shēngyì	Do business
+座	zuò	Seat
+座位	zuòwèi	seat
+作者	zuòzhě	author
