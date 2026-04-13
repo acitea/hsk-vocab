@@ -611,6 +611,7 @@
 色彩	sècǎi	color
 森林	sēnlín	Forest
 晒	shài	The sun
+闪	shǎn	
 闪电	shǎndiàn	lightning
 善良	shànliáng	kind; virtuous
 善于	shànyú	be good at

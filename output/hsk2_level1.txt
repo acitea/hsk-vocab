@@ -38,6 +38,10 @@
 都	dōu	all
 和	hé	and
 在	zài	in, at
+的	de	
+了	le	
+吗	ma	
+呢	ne	
 喂	wèi	hello
 家	jiā	home
 学校	xuéxiào	school

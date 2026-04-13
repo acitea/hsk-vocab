@@ -3,6 +3,7 @@
 安装	ānzhuāng	install
 按	àn	press; push; check; restrain
 按照	ànzhào	according to
+把（介）	bǎ	
 把（量）	bǎ	(measure word)
 把握	bǎwò	grasp
 白（副）	bái	without results; in vain; waste efforts
@@ -105,6 +106,7 @@
 初中	chū zhōng	junior high school
 除了	chúle	except
 处理	chǔlǐ	Handle
+传	chuán	
 传播	chuánbō	spread
 传来	chuán lái	came; come through
 传说	chuánshuō	Legend
@@ -256,6 +258,7 @@
 故乡	gùxiāng	Hometown
 挂	guà	hang
 关系	guānxì	relationship
+关注	guān zhù	
 观察	guānchá	observation
 观看	guān kàn	watch; view
 观念	guānniàn	concept
@@ -350,6 +353,7 @@
 交往	jiāowǎng	affiliate with
 交易	jiāoyì	transaction
 叫（介）	jiào	(preposition)
+较	jiào	
 教材	jiàocái	teaching material
 教练	jiàoliàn	coach
 结实	jiēshi	strong
@@ -674,6 +678,7 @@
 输	shū	lose
 输入	shūrù	import; input
 熟人	shú rén	acquaintance
+属	shǔ	
 属于	shǔyú	belong to
 束	shù	beam
 数量	shùliàng	quantity
@@ -728,6 +733,7 @@
 团体	tuántǐ	group
 推动	tuī dòng	promote; push forward; give impetus to
 推广	tuīguǎng	Extension
+推进	tuī jìn	
 推开	tuī kāi	push away
 退	tuì	retreat
 退出	tuì chū	drop out; quit; withdraw
@@ -860,6 +866,7 @@
 预防	yùfáng	Prevention
 预计	yù jì	expected; estimate
 预习	yùxí	Preview
+员（服务员）	yuán （fú wù yuán）	
 员工	yuángōng	employee
 愿望	yuànwàng	desire
 约	yuē	appointment; agreement; arrange; restrict

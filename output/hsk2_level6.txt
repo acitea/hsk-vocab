@@ -777,6 +777,7 @@
 合伙	héhuǒ	cooperate; join hands with
 合身	héshēn	Fit
 合算	hésuàn	Cost-effective
+嘿	hēi	
 痕迹	hénjì	mark
 狠心	hěnxīn	cruel hearted
 恨不得	hènbude	Hate not
@@ -870,6 +871,7 @@
 疾病	jíbìng	disease
 嫉妒	jídù	Envy
 及早	jízǎo	as soon as possible
+急功近利	jígōngjìnlì	
 急剧	jíjù	sharp
 急切	jíqiè	impatient eager; imperative
 急于求成	jíyúqiúchéng	Be anxious for success
@@ -1119,6 +1121,7 @@
 扩散	kuòsàn	spread
 扩张	kuòzhāng	expand; outspread
 喇叭	lǎba	horn
+啦	la	
 来历	láilì	Origin
 来源	láiyuán	source
 栏目	lánmù	column
@@ -1216,6 +1219,7 @@
 麻木	mámù	numbness
 麻醉	mázuì	narcosis
 码头	mǎtóu	wharf
+嘛	ma	
 埋伏	máifú	Ambush
 埋没	máimò	immerse oneself in
 埋葬	máizàng	bury

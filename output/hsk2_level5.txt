@@ -47,6 +47,7 @@
 表明	biǎomíng	Indicate
 表情	biǎoqíng	Expression
 表现	biǎoxiàn	performance
+丙	bǐng	
 病毒	bìngdú	virus
 玻璃	bōli	Glass
 博物馆	bówùguǎn	Museum
@@ -220,6 +221,7 @@
 电池	diànchí	Battery
 电台	diàntái	radio station
 钓	diào	Fishing
+丁	dīng	
 顶	dǐng	top
 冻	dòng	freeze
 洞	dòng	hole
@@ -1121,6 +1123,7 @@
 移民	yímín	immigrant
 遗憾	yíhàn	pity
 疑问	yíwèn	Doubt
+乙	yǐ	
 以及	yǐjí	as well as
 以来	yǐlái	Since
 意外	yìwài	Accident

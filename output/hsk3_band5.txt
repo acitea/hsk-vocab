@@ -49,6 +49,7 @@
 博物馆	bówùguǎn	Museum
 薄弱	bóruò	weak
 不顾	búgù	disregard
+不利	bú lì	
 不耐烦	búnàifán	Impatient
 不幸	bú xìng	misfortune; unfortunat; unfortunately
 不易	bú yì	not easy; difficult; tough
@@ -309,6 +310,7 @@
 过度	guòdù	excessive
 过敏	guòmǐn	allergy
 过于	guòyú	too; excessively
+害	hài	
 汗	hàn	sweat
 好运	hǎo yùn	good luck
 号召	hàozhào	call
@@ -364,6 +366,7 @@
 加上	jiā shàng	plus; add; with the addition of
 加速	jiā sù	speed up; accelerate; quicken
 加以	jiā yǐ	moreover; in addition
+夹	jiā	
 甲	jiǎ	nail
 价	jià	price; value
 驾驶	jiàshǐ	Drive
@@ -592,6 +595,7 @@
 敲	qiāo	knock
 敲门	qiāo mén	knock on the door
 瞧	qiáo	look
+琴	qín	
 勤奋	qínfèn	hardworking
 青	qīng	young
 清晨	qīngchén	Early morning
@@ -642,6 +646,7 @@
 扇子	shànzi	Fan
 商标	shāngbiāo	trademark
 上级	shàngjí	Superior
+上下	shàng xià	
 上涨	shàng zhǎng	rise; go up
 稍	shāo	a little; a bit; trifle; somewhat
 稍微	shāowēi	slightly
@@ -660,6 +665,7 @@
 伸	shēn	stretch
 深处	shēn chù	deep; depths; recess; profundity
 深度	shēn dù	depth; deepness
+神	shén	
 神经	shénjīng	nerve
 神奇	shénqí	Magical
 神情	shén qíng	expression; look
@@ -720,6 +726,7 @@
 搜	sōu	search; search out
 搜索	sōusuǒ	search
 宿舍	sùshè	dormitory
+酸甜苦辣	suān tián kǔ là	
 随后	suí hòu	follow; soon afterwards
 随意	suíyì	random; casual
 随着	suízhe	along with
@@ -812,6 +819,8 @@
 现有	xiàn yǒu	existing; now available; existence
 现状	xiànzhuàng	Present situation
 线索	xiànsuǒ	Clue
+献	xiàn	
+乡	xiāng	
 乡村	xiāng cūn	country; village; countryside; rural area; rural
 相等	xiāngděng	Equal
 相应	xiāngyìng	Corresponding

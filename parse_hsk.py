@@ -146,7 +146,7 @@ def parse_pdf(data: bytes) -> tuple[str, list[tuple[str, str, str]]]:
                 pinyin = " ".join(cols.get(2, [])).strip()
                 meaning = " ".join(cols.get(3, [])).strip()
 
-                if not chinese or not meaning:
+                if not chinese:
                     continue
 
                 rows.append((chinese, pinyin, meaning))

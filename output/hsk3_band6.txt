@@ -1,5 +1,6 @@
 挨着	āi zhe	next to; close to
 挨	ái	Next to
+挨打	ái dǎ	
 安检	ān jiǎn	security check
 罢工	bàgōng	Strike
 罢了	bà le	let it pass; that’s all; (auxiliary word)
@@ -12,6 +13,7 @@
 傍晚	bàngwǎn	Evening
 保健	bǎo jiàn	health protection; health care
 报刊	bào kān	newspapers and periodicals; press
+报考	bào kǎo	
 抱歉	bàoqiàn	feel sorry
 暴风雨	bào fēng yǔ	rainstorm; storm; tempest
 暴力	bàolì	violence
@@ -29,7 +31,9 @@
 本地	běn dì	this locality; local; native
 本期	běn qī	current period
 本身	běnshēn	itself
+本土	běn tǔ	
 本质	běnzhì	essence
+逼	bī	
 笔试	bǐ shì	written examination
 必将	bì jiāng	will certainly; surely will
 必修	bì xiū	obligatory; compulsory; required
@@ -47,6 +51,7 @@
 病房	bìng fáng	ward of a hospital; sickroom
 病情	bìng qíng	state of an illness; patient’s condition
 拨打	bō dǎ	dial
+波动	bō dòng	
 波浪	bōlàng	wave
 播	bō	broadcast; spread; seed; sow; move about
 不便	bú biàn	inconvenient; unsuitable; be short of cash
@@ -62,6 +67,7 @@
 不成	bù chéng	won’t do; fail
 不禁	bùjīn	Can not help but
 不仅仅	bù jǐn jǐn	not just; not only; more than
+不通	bù tōng	
 不怎么	bù zěn me	not particularly; not very
 不怎么样	bù zěn me yàng	not up to much; very indifferent
 不值	bù zhí	not worth
@@ -70,6 +76,7 @@
 采纳	cǎinà	accept
 踩	cǎi	step on
 参赛	cān sài	take part in match; enter the competition
+参展	cān zhǎn	
 餐	cān	food; meal; eat
 残疾	cánjí	A disability
 残疾人	cán jí rén	handicapped; disabled person
@@ -112,6 +119,7 @@
 车展	chē zhǎn	auto show; car exhibition
 撤离	chè lí	withdraw; leave; evacuate
 撤销	chèxiāo	repeal; retract
+撑	chēng	
 成（量）	chéng	(measure word)
 成分	chéngfèn	component
 成品	chéng pǐn	end product; finish product
@@ -121,6 +129,7 @@
 城镇	chéng zhèn	town; city
 持有	chí yǒu	hold; possess
 冲击	chōngjī	To attack
+重建	chóng jiàn	
 重组	chóng zǔ	reorganization; regroup
 崇拜	chóngbài	worship
 宠物	chǒngwù	Pet
@@ -242,6 +251,7 @@
 发放	fā fàng	provide; grant; extend; give out; issue
 发怒	fā nù	get angry; fly into a rage; flare up; huff
 发起	fā qǐ	initiate; sponsor; start; launch
+发言人	fā yán rén	
 发炎	fāyán	inflammation
 法庭	fǎ tíng	court; tribunal
 法语	fǎ yǔ	French language
@@ -270,8 +280,11 @@
 奉献	fèngxiàn	dedicate
 佛	fó	Buddha; Buddhism
 佛教	fó jiào	Buddhism
+服	fú	
+浮	fú	
 父女	fù nǚ	father and daughter
 父子	fù zǐ	father and son
+负	fù	
 妇女	fùnǚ	Woman
 复苏	fù sū	resuscitate; recovery; come to; revive
 副（形）	fù	secondary; auxiliary; subsidiary
@@ -282,6 +295,7 @@
 干涉	gānshè	interference
 肝	gān	liver
 杆	gān	pole; staff
+赶不上	gǎn bú shàng	
 赶忙	gǎn máng	hurry; hasten; make haste; quickly
 赶上	gǎn shàng	overtake; catch up; emulate; keep up
 敢于	gǎn yú	dare to; be bold in; have the courage to;
@@ -303,6 +317,8 @@
 革新	gé xīn	innovation; renovation
 更是	gèng shì	more; even more
 工商	gōng shāng	industry and commerce
+公	gōng	
+公安	gōng ān	
 公鸡	gōng jī	cock; rooster
 公众	gōng zhòng	public
 公主	gōngzhǔ	princess
@@ -320,9 +336,11 @@
 股东	gǔdōng	stockholder
 股票	gǔpiào	shares; stock
 故障	gùzhàng	fault
+顾	gù	
 刮	guā	scratch; shave; fleece; extort; blow; shaving
 拐	guǎi	abduct; kidnap; turn; crutch
 关爱	guān ài	care; caring
+关联	guān lián	
 观光	guānguāng	Sightseeing
 官司	guān si	lawsuit
 管道	guǎn dào	pipeline; channel; tunnel; piping; tubing
@@ -347,6 +365,7 @@
 海外	hǎi wài	overseas; abroad
 海湾	hǎi wān	bay; gulf
 海洋	hǎiyáng	ocean
+好（不）容易	hǎo （bù） róng yì	
 好似	hǎo sì	seem; be like
 好转	hǎo zhuǎn	get better; improve
 好学	hào xué	studious; fond of learning
@@ -355,6 +374,7 @@
 核心	héxīn	core
 黑夜	hēi yè	night
 很难说	hěn nán shuō	hard to say
+狠	hěn	
 横	héng	harsh and unreasonable; perverse
 衡量	héng liáng	weigh; measure; scale; weight
 宏大	hóng dà	grand; great
@@ -374,12 +394,16 @@
 回应	huí yìng	response; respond
 毁	huǐ	destroy; ruin; damage; defame
 会见	huì jiàn	meet with; pay a visit
+会长	huì zhǎng	
 绘画	huì huà	paint; draw; drawing; painting
+昏	hūn	
+混	hùn	
 混合	hùnhé	blend
 混乱	hùnluàn	confusion
 活跃	huóyuè	active
 火箭	huǒjiàn	rocket
 机动车	jī dòng chē	motor vehicle
+机关	jī guān	
 机械	jīxiè	Mechanics
 基督教	jī dū jiào	Christianity; the Christian religion; Christian
 激情	jīqíng	Passion
@@ -388,6 +412,7 @@
 极端	jíduān	extreme
 急救	jí jiù	first aid; emergency treatment
 疾病	jíbìng	disease
+集	jí	
 给予	jǐyǔ	give
 加盟	jiā méng	join
 家电	jiā diàn	home appliances
@@ -413,6 +438,7 @@
 教堂	jiào táng	church; cathedral; chapel
 教育部	jiào yù bù	Ministry of Education
 接收	jiē shōu	receive; accept; take over; admit
+揭	jiē	
 街头	jiē tóu	street
 节（动）	jié	economize; save; abridge
 节假日	jié jià rì	holidays; festival and holiday
@@ -421,7 +447,9 @@
 杰出	jiéchū	outstanding
 截止	jiézhǐ	due
 截至	jiézhì	By (time）
+解	jiě	
 解说	jiě shuō	explain orally; comment; definition; narrate
+界	jiè	
 界（文艺界）	jiè （wén yì jiè）	circles; world (circle of literature and art)
 借鉴	jièjiàn	take example by
 金额	jīn é	money; sum; amount
@@ -433,6 +461,7 @@
 近视	jìn shì	myopia; short sight
 惊人	jīng rén	astonishing; amazing; alarming
 惊喜	jīng xǐ	surprise; pleasantly surprised
+精	jīng	
 精美	jīng měi	exquisite; elegant; fineness; refineness
 精品	jīng pǐn	boutique
 井	jǐng	well
@@ -444,15 +473,19 @@
 酒水	jiǔ shuǐ	drinks; beverage; booze
 救命	jiù mìng	help; save life
 救援	jiù yuán	rescue; succor; support
+救助	jiù zhù	
 就是说	jiù shì shuō	that is; in other words; namely
 就算	jiù suàn	even if; granted that
 局（量）	jú	(measure word)
+剧	jù	
 据	jù	according to; seize; depend on; evidence
 捐	juān	Donate
+捐款	juān kuǎn	
 捐赠	juān zèng	contribute; donate; present
 捐助	juān zhù	offer; contribute; donate; donation
 决策	juécè	make policy
 觉悟	juéwù	consciousness
+绝	jué	
 绝大多数	jué dà duō shù	most of; overwhelming majority
 军队	jūnduì	army
 军舰	jūn jiàn	warship; military naval ship
@@ -462,6 +495,7 @@
 开设	kāi shè	open; set up; establish; offer
 开通	kāi tōng	open; clear; dredge; open-minded; liberal
 开头	kāi tóu	begin; start; beginning
+开夜车	kāi yè chē	
 看	kàn	see
 看管	kān guǎn	look after; guard; watch; attend
 看得见	kàn de jiàn	visible; noticeable
@@ -500,6 +534,7 @@
 理财	lǐ cái	manage finances; conduct financial
 理智	lǐzhì	reasonable
 力（影响力）	lì （yǐng xiǎng lì）	ability; capability (influence)
+利	lì	
 联盟	liánméng	union
 联赛	lián sài	league
 联手	lián shǒu	join hands
@@ -624,6 +659,7 @@
 亲属	qīn shǔ	kinsfolk; relatives; cognate
 亲眼	qīn yǎn	with one’s own eyes; personally
 倾向	qīngxiàng	inclination
+清	qīng	
 清洁	qīngjié	clean
 清洁工	qīng jié gōng	dustman; cleaner
 清明节	qīng míng jié	Tomb-Sweeping Day; Ching Ming Festival
@@ -694,6 +730,7 @@
 省钱	shěng qián	save money
 圣诞节	shèng dàn jié	Christmas
 盛行	shèngxíng	Prevalence
+师父	shī fu	
 师生	shī shēng	teacher and student
 时而	shí’ér	from time to time; now … now …
 时节	shí jié	season; time
@@ -721,8 +758,10 @@
 薯片	shǔ piàn	chips; crisps; potato chips
 薯条	shǔ tiáo	french fries
 双打	shuāng dǎ	doubles; pair game
+爽	shuǎng	
 水泥	shuǐní	cement
 税	shuì	tax
+顺	shùn	
 说明书	shuō míng shū	manual; synopsis
 说实话	shuō shí huà	to be frank; tell the truth; to be honest
 司长	sī zhǎng	director; department Chief
@@ -747,6 +786,7 @@
 探讨	tàntǎo	discuss; probe into
 趟	tàng	Trip
 掏	tāo	Dig
+特	tè	
 特大	tè dà	especially big; most
 特地	tè dì	for a special purpose; specially
 特快	tè kuài	express
@@ -771,6 +811,7 @@
 通讯	tōngxùn	communication
 同	tóng	same; similar; alike; like; together
 同胞	tóngbāo	Compatriot
+同行	tóng háng	
 同期	tóng qī	corresponding time period; the same period
 同一	tóng yī	same; identical
 铜牌	tóng pái	bronze medal; copper medal
@@ -798,7 +839,9 @@
 外科	wài kē	surgery; surgical department
 外来	wài lái	foreign; external; outside
 外头	wài tou	outside
+外衣	wài yī	
 外资	wài zī	foreign investment
+弯曲	wān qū	
 顽皮	wán pí	naughty; mischievous
 顽强	wánqiáng	Tenacious
 王后	wáng hòu	queen
@@ -870,6 +913,7 @@
 凶手	xiōngshǒu	Murderer
 修车	xiū chē	car repair; car repairing
 袖珍	xiù zhēn	pocket-size; pocket
+悬	xuán	
 旋转	xuánzhuǎn	rotate
 选拔	xuǎnbá	Selection
 选举	xuǎnjǔ	Election
@@ -891,10 +935,13 @@
 仰	yǎng	look up; face upward
 养老	yǎng lǎo	pension; provide for the aged
 氧气	yǎngqì	oxygen
+样	yàng	
 药品	yào pǐn	drug; medicine; medicament
 要不然	yào bù rán	otherwise
+要好	yào hǎo	
 要么	yào me	or; either … or …
 要素	yàosù	Essential factor
+野	yě	
 野生	yě shēng	wild; uncultivated; feral
 医药	yī yào	medicine; curative
 依次	yī cì	in proper order; successively
@@ -914,7 +961,9 @@
 一同	yì tóng	together; at the same time and place
 一行	yì xíng	delegation; a group travelling together; party
 艺人	yì rén	actor; artist; artisan; handicraftsman
+议题	yì tí	
 异常	yìcháng	abnormal
+意想不到	yì xiǎng bù dào	
 意愿	yì yuàn	wish; desire; aspiration; volitional
 因	yīn	cause; reason; because
 因素	yīnsù	Factor
@@ -930,6 +979,7 @@
 影迷	yǐng mí	movie fan; film fan
 影星	yǐng xīng	movie star
 应对	yìng duì	reply; answer; respond; react
+应急	yìng jí	
 用处	yòng chù	use; good; usefulness
 用得着	yòng de zháo	useful; need
 用法	yòng fǎ	usage; use
@@ -941,6 +991,7 @@
 游戏机	yóu xì jī	game console; game machine
 游行	yóu xíng	parade; march; demonstration; procession
 有关	yǒu guān	related; concerning; relate; concern
+有没有	yǒu méi yǒu	
 有事	yǒu shì	engaged; occupied; busy; something
 于	yú	(preposition)
 娱乐	yúlè	entertainment
@@ -950,6 +1001,7 @@
 雨衣	yǔ yī	raincoat
 预约	yù yuē	reservation; reserve; make an appointment
 元素	yuánsù	element
+园	yuán	
 园地	yuán dì	garden; field
 原	yuán	primary; original; former; raw; pardon; level
 原告	yuángào	accuser
@@ -972,6 +1024,7 @@
 遭到	zāo dào	suffer; suffered; meet with
 遭受	zāoshòu	Suffer
 遭遇	zāoyù	encounter
+早晚	zǎo wǎn	
 增进	zēng jìn	enhance; promote
 增值	zēng zhí	value-added; appreciation; increase in value
 扎	zhā	Tie
@@ -999,6 +1052,7 @@
 照耀	zhàoyào	Shine
 哲学	zhéxué	Philosophy
 这就是说	zhè jiù shì shuō	this means that; that is to say
+镇	zhèn	
 争夺	zhēngduó	Fight for
 整顿	zhěngdùn	rectify
 整治	zhěng zhì	rectify; renovate; fix
@@ -1068,8 +1122,10 @@
 走私	zǒusī	smuggle
 奏	zòu	play; play music
 租金	zū jīn	rent; rental
+足	zú	
 足以	zúyǐ	Enough
 族	zú	clan; race; nationality
+族（上班族）	zú （shàng bān zú）	
 祖父	zǔfù	grandfather
 祖国	zǔguó	Motherland
 祖母	zǔ mǔ	grandmother
@@ -1078,6 +1134,7 @@
 最终	zuì zhōng	final; ultimate
 罪	zuì	sin; crime; guilt; fault; blame
 罪恶	zuì è	sin; crime; evil
+作	zuò	
 作废	zuòfèi	cancel, blank out
 作战	zuò zhàn	fight; war; do battle; combat
 座谈会	zuò tán huì	foum; symposium; informal discussion
